@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="sky">#baecf0</color>
+    <color name="darksky">#7bd0d6</color>
+    <color name="tan">#f0d6ba</color>
+
+    <color name="violet">#8a50d2</color>
+    <color name="light_violet">#b588eb</color>
+    <color name="green">#50d48b</color>
+    <color name="light_green">#89edb6</color>
+
+    <color name="navy">#3c5070</color>
+    <color name="dark_navy">#2d3e50</color>
+    <color name="nautica_green">#1bbc9b</color>
+
+
+
+
+</resources>
