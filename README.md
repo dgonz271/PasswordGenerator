@@ -23,7 +23,7 @@ Any feedback is appreciated.
 
 ## License
 
-    Copyright 2018 Daniel Gonzalez
+    Copyright 2019 Daniel Gonzalez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
